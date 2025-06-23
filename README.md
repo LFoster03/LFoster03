@@ -39,19 +39,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I’m Lindsay! 👋
 
 I’m a data analyst and Python developer passionate about clean code and beautiful data visualizations.
 
 - 🔭 Currently working on a Shiny dashboard project  
 - 🌱 Learning advanced machine learning techniques  
 - 💬 Ask me about Python, SQL, or data storytelling  
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)  
+- 📫 How to reach me: [lindsay.foster03@gmail.com](mailto:lindsay.foster03@gmail.com)  
 - ⚡ Fun fact: 
 
 ## Top Projects
-- [Shiny Penguins Dashboard](https://github.com/username/penguins-dashboard) — Interactive data visualization using Shiny for Python  
-- [Sales Growth Analysis](https://github.com/username/sales-growth) — OLAP project with Power BI and Python
 
-![Lindsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 
