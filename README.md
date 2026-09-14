@@ -2,7 +2,7 @@
 Pronouns: she/her
 
 
-My BA is in English and Theatre & Film but I am working towards my Master's in Data Analytics.
+My BA is in English and Theatre & Film and my Master's is in Data Analytics.
 
 I love using Python and look forward to learning more about data.
 
